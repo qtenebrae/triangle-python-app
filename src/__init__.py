@@ -1,21 +1,7 @@
-from App import App
 from Controller import Controller
 from Storage import Storage
 from Validator import Validator
-
-
-def bootstrap(validator, storage, controller):
-    """Создает и возвращает экземпляр класса App.
-
-    Args:
-        validator (Validator): Экземпляр класса Validator.
-        storage (Storage): Экземпляр класса Storage.
-        controller (Controller): Экземпляр класса Controller.
-
-    Returns:
-        App: Экземпляр класса App.
-    """
-    return App(validator, storage, controller)
+from bootstrap import bootstrap
 
 
 def main():
