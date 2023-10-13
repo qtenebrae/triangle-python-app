@@ -1,0 +1,7 @@
+1.  Enter the coordinates of the vertices of the triangle in the corresponding fields on the screen.
+2.  Enter the coordinates of the point from which the ball will be released into the corresponding fields on the screen.
+3.  Enter the initial velocity of the ball into the appropriate fields on the screen.
+4.  Press the Start button to start the ball moving.
+5.  The ball will move inside the triangular area, bouncing off the walls.
+6.  Press the "Stop" button to stop the ball from moving.
+7.  To reset the values of the variables to the original values, press the "Values by mind" button.
